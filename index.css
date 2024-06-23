@@ -1,0 +1,64 @@
+/* div{
+    background-color: yellow;
+} */
+
+/* *{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .header{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    border: 1px solid black;
+
+}
+
+.nav-items>ul{
+    list-style-type: none;
+    display: flex;
+}
+
+.nav-items>ul>li{
+    padding: 10px;
+}
+
+.logo{
+    width: 100px;
+} */
+
+
+/* Design body components */
+/* .card{
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+
+}
+.card>img{
+   width: 100%;
+}
+
+.restraunt-list{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shimmer-card{
+    width: 200px;
+    height: 400px;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(201, 193, 193);
+}
+
+.text-red{
+    color: red;
+} */

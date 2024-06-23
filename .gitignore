@@ -1,0 +1,5 @@
+node_modules
+netlify.toml
+.parcel-cache
+/coverage
+.parcel-cache/data.mdb 

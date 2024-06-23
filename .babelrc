@@ -1,0 +1,12 @@
+// {
+//     "plugins": [ ["transform-remove-console", 
+//     { "exclude": [ "error", "warn"] }] ]
+//   }
+
+// if want to use console log then->
+{
+    "presets": [
+        ["@babel/preset-env", {"targets": {"node": "current"}}],
+        ["@babel/preset-react", {"runtime": "automatic"}]
+    ]
+}
